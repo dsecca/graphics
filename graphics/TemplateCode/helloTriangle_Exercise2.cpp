@@ -117,7 +117,7 @@ int main()
 	glDeleteShader(fragmentShader);
 
 
-	//Rectangle Coordinates
+	//Triangles' Coordinates
 	float vertices1[] = {
 		-0.25f, -0.25f, 0.0f,
 		0.25f, -0.25f, 0.0f,
